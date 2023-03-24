@@ -7,7 +7,7 @@
         <div class="mask">
             <div class="wrapper">
             <div class="color-white">
-                <h1 class="mb-3">La mia prima app con Vite!</h1>
+                <h1 class="mb-3">Fioritura Dei ciliegi</h1>
                 <h4 class="mb-3">Classe 87</h4>
                 <button class="button">Call To Action</button>
             </div>
@@ -55,10 +55,11 @@ h4 {
 .button {
     margin-top: 30px;
     padding: 20px;
-    font-size: 25px;
-    color: green;
+    font-size: 30px;
+    color: brown;
     background-color: transparent;
     border: 1px solid white;
+    font-weight: bold;
 }
 .color-white {
     color: white;
